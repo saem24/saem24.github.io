@@ -12,7 +12,7 @@ zip_code:
 country:
 phone:
 
-#icon: fa-diamond
+icon: fa-diamond
 
 # Social settings
 facebook_url:
