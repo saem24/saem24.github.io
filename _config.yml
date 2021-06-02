@@ -1,7 +1,7 @@
 # Site settings
 title: Saem Sarguroh
 email: saemsarguroh@gmail.com
-description: Personal Website
+description: A very work-in-progress personal website
 baseurl: # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
