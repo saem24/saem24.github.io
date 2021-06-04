@@ -1,12 +1,12 @@
 ---
-title: Android-Projects
+title: Projects
 menu: main
-permalink: /android/
+permalink: /projects/
 ---
-<!-- target="_blank" after href="/#proj" will open page in new tab. Add if required.-->
-Here is my <a href="/#proj">Project 1</a>.
 
 **This section of this website is WIP due to my main device being repaired. I will update it soon.**
+
+#Android Projects
 
 The main focus of these projects are to make QOL improvements reflecting my vision on how a feature should be in existing products I own. I sometimes also try to mimic features that tend to be version or device exclusive and bring it to other devices.
 
@@ -18,4 +18,15 @@ The main focus of these projects are to make QOL improvements reflecting my visi
 * <a href="/#project4">Regex based call blocker.</a>
 * <a href="/#project5">Context based autoresponder.</a>
 * <a href="/#project6">WhatsApp message scheduler.</a>
-* <a href="/#project7">Personalised FTP server.</a>
+* <a href="/#project7">Automated FTP transfer.</a>
+* <a href="/#project8">Autosave records to file.</a>
+
+# Engineering Projects
+
+I like to learn new software and play around with them. So far I have managed to understand REVIT, AutoCAD, ANSYS, SolidWORKS, Tekla and MATLAB with varying success. This section of the website showcases some of the projects I created in the process.
+
+***Some of my projects:***
+
+* <a href="/#eng1">A relative's house I designed in REVIT.</a>
+* <a href="/#eng2">An iPhone concept I made in SolidWORKS.</a>
+* <a href="/#eng3">Calculation of static load using ANSYS.</a>
