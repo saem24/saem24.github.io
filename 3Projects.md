@@ -6,7 +6,7 @@ permalink: /projects/
 
 **This section of this website is WIP due to my main device being repaired. I will update it soon.**
 
-# Android Projects
+## <ins>Android Projects</ins>
 
 The main focus of these projects are to make QOL improvements reflecting my vision on how a feature should be in existing products I own. I sometimes also try to mimic features that tend to be version or device exclusive and bring it to other devices.
 
@@ -21,7 +21,7 @@ The main focus of these projects are to make QOL improvements reflecting my visi
 * <a href="/#project7">Automated FTP transfer.</a>
 * <a href="/#project8">Autosave records to file.</a>
 
-# Engineering Projects
+## <ins>Engineering Projects</ins>
 
 I like to learn new software and play around with them. So far I have managed to understand REVIT, AutoCAD, ANSYS, SolidWORKS, Tekla and MATLAB with varying success. This section of the website showcases some of the projects I created in the process.
 
