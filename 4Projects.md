@@ -6,7 +6,7 @@ permalink: /projects/
 
 **This section of this website is WIP due to my main device being repaired. I will update it soon.**
 
-#Android Projects
+# Android Projects
 
 The main focus of these projects are to make QOL improvements reflecting my vision on how a feature should be in existing products I own. I sometimes also try to mimic features that tend to be version or device exclusive and bring it to other devices.
 
