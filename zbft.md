@@ -1,6 +1,5 @@
 ---
 title: Bright-Future-Tutorials
-menu: main
 permalink: /bf/
 ---
 
