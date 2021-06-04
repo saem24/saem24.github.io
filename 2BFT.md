@@ -1,5 +1,5 @@
 ---
-title: Bright-Future-Tutorials
+title: Bright Future Tutorials
 menu: main
 permalink: /bft/
 ---
