@@ -1,8 +1,9 @@
 ---
-title: Bright-Future-Tutorials
+title: BFT
 menu: main
 permalink: /bft/
 ---
+## <ins>Bright Future Tutorials</ins>
 
 This is an undertaking born out of the desire to share knowledge and a pursuit towards ensuring affordable personal coaching for all. It is the product of being appreciated and welcomed for our teaching methods.
 
