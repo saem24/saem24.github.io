@@ -9,7 +9,7 @@ Hello visitor!
 This is my personal website where I aim to elaborate on things in a way that cannot be done within the confines of a single-page resume. I hope you enjoy what you see here.
 ___
 
-I am a Mechanical Engineer by education and a constant learner by passion. I like to teach and share my knowledge which is why I established [Bright Future Tutorials](saem24.github.io/#BFT "Link: More about Bright Future Tutorials") almost a decade ago.
+I am a Mechanical Engineer by education and a constant learner by passion. I like to teach and share my knowledge which is why I established [Bright Future Tutorials](saem24.github.io/#Bright-Future-Tutorials "Link: More about Bright Future Tutorials") almost a decade ago.
 
 When not busy with work, I love to undertake [personal projects](saem24.github.io/#Projects "Link: Details on projects"). They showcase my interest towards learning new things and tinkering along the way. I also have a well-received [research project](saem24.github.io/#Publications "Link: Publications") which demonstrates my research skills.
 
